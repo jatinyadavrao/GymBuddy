@@ -9,7 +9,6 @@ GymBuddy is a production-style MERN application inspired by Tinder, but built fo
 - Tailwind CSS
 - Axios
 - React Router
-- Zustand
 - Framer Motion
 - Socket.io client
 

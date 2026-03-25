@@ -2,6 +2,14 @@
 
 GymBuddy is a production-style MERN application inspired by Tinder, but built for finding compatible gym partners nearby.
 
+## Screenshots
+
+**Landing Page UI Recording:**
+![GymBuddy UI Recording](assets/gymbuddy_ui_1774446435569.webp)
+
+**Full Landing Page:**
+![GymBuddy Landing Page](assets/landing_page_full_1774446483330.png)
+
 ## Tech Stack
 
 ### Frontend
